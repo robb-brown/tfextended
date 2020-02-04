@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pytf
+Version: 0.1
+Summary: Extensions to TensorFlow
+Home-page: http://gitlab.com/robb-brown/tfextended
+Author: Robert A. Brown
+Author-email: robb@shadowlabresearch.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,10 @@
+setup.py
+pytf.egg-info/PKG-INFO
+pytf.egg-info/SOURCES.txt
+pytf.egg-info/dependency_links.txt
+pytf.egg-info/not-zip-safe
+pytf.egg-info/requires.txt
+pytf.egg-info/top_level.txt
+tfextended/__init__.py
+tfextended/optimizer/__init__.py
+tfextended/optimizer/external_optimizer.py
