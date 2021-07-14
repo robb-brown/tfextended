@@ -1,10 +1,11 @@
 setup.py
 tfextended/__init__.py
+tfextended/tensorflowCompat.py
 tfextended.egg-info/PKG-INFO
 tfextended.egg-info/SOURCES.txt
 tfextended.egg-info/dependency_links.txt
 tfextended.egg-info/not-zip-safe
 tfextended.egg-info/requires.txt
 tfextended.egg-info/top_level.txt
-tfextended/optimizer/__init__.py
-tfextended/optimizer/external_optimizer.py
+tfextended/optimizers/__init__.py
+tfextended/optimizers/external_optimizer.py
